@@ -1,0 +1,7 @@
+resumen 
+la entrega 7 es tree desicions sin split y con el grip 
+la entrega 8 es solo knn con 3 vecinos sin split
+la entrega 9 es knn con grid con 3 veciones y sin split
+la entrega marielcg1 es knn con grid con 3 vecinos con slplit con testeo (liderando) = 0.6883 y 0.458
+
+
